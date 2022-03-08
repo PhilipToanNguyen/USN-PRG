@@ -12,14 +12,7 @@ import java.util.*;
 
 public class Mal {
     public static void main(String[] args) {
-        // Innlesing
-        String tallTekst = showInputDialog("Gi tall:");
-        int heltall = parseInt(tallTekst);
-        double desTall = parseDouble(tallTekst);
-        // Beregning
-        // Utskrift
-        String ut = " ";
-        showMessageDialog(null, ut);
-        out.println(ut);
+       
+        out.println("Hei Verden!");
     }
 }
